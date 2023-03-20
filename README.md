@@ -3,7 +3,7 @@
 - 💻 I'm am skilled with C#, ASP.NET MVC, javascript, Angular, Vue, MS SQL
 - 🌱 I’m currently learning ASP.NET Core, Kubernetes, AWS, React
 - 💞️ I’m looking to collaborate on awesome projects that help people
-- 📫 How to reach me - linkedin.com/ohmny
+- 📫 How to reach me - linkedin.com/in/ohmny
 
 <!---
 ohmnoms/ohmnoms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
